@@ -38,3 +38,7 @@ include_once 'header.php';
 
 
 </form>
+<?php
+}
+include_once 'footer.php';
+?>
